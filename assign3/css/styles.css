@@ -42,7 +42,7 @@ body{
 	text-shadow: 2px 2px 2px black;
 
 }
-#food
+.food
 {   position: relative;
 	background-color: #C70039;
 	color: white;
@@ -50,7 +50,7 @@ body{
 	padding-top: 0;
 	font-style: italic;
 }
-#food h2
+.food h2
 { 	text-align: center;
 	padding: 5px;
 	margin-bottom:0;
